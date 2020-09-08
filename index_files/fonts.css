@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'Proxima Nova Lt';
+    src: url('ProximaNova-Light.eot');
+    src: url('ProximaNova-Light.eot#iefix') format('embedded-opentype'),
+        url('ProximaNova-Light.woff') format('woff'),
+        url('ProximaNova-Light.ttf') format('truetype'),
+        url('ProximaNova-Light.svg#ProximaNova-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: url('ProximaNova-Regular.eot');
+    src: url('ProximaNova-Regular.eot#iefix') format('embedded-opentype'),
+        url('ProximaNova-Regular.woff') format('woff'),
+        url('ProximaNova-Regular.ttf') format('truetype'),
+        url('ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('ProximaNova-Bold.eot');
+    src: url('ProximaNova-Bold.eot#iefix') format('embedded-opentype'),
+        url('ProximaNova-Bold.woff') format('woff'),
+        url('ProximaNova-Bold.ttf') format('truetype'),
+        url('ProximaNova-Bold.svg#ProximaNova-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('ProximaNova-Bold.eot');
+    src: url('ProximaNova-Bold.eot#iefix') format('embedded-opentype'),
+        url('ProximaNova-Bold.woff') format('woff'),
+        url('ProximaNova-Bold.ttf') format('truetype'),
+        url('ProximaNova-Bold.svg#ProximaNova-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova SB';
+    src: url('ProximaNova-Semibold.eot');
+    src: url('ProximaNova-Semibold.eot#iefix') format('embedded-opentype'),
+        url('ProximaNova-Semibold.woff') format('woff'),
+        url('ProximaNova-Semibold.ttf') format('truetype'),
+        url('ProximaNova-Semibold.svg#ProximaNova-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Segoe UI Regular';
+    src: url('SegoeUI-Regular.eot');
+    src: url('SegoeUI-Regular.eot#iefix') format('embedded-opentype'),
+        url('SegoeUI-Regular.woff') format('woff'),
+        url('SegoeUI-Regular.ttf') format('truetype'),
+        url('SegoeUI-Regular.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI Bold';
+    src: url('SegoeUI-SemiBold.eot');
+    src: url('SegoeUI-SemiBold.eot#iefix') format('embedded-opentype'),
+        url('SegoeUI-SemiBold.woff') format('woff'),
+        url('SegoeUI-SemiBold.ttf') format('truetype'),
+        url('SegoeUI-SemiBold.svg#SegoeUI-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Segoe UI Semilight';
+    src: url('SegoeUI-Semilight.eot');
+    src: url('SegoeUI-Semilight.eot#iefix') format('embedded-opentype'),
+        url('SegoeUI-Semilight.woff') format('woff'),
+        url('SegoeUI-Semilight.ttf') format('truetype'),
+        url('SegoeUI-Semilight.svg#SegoeUI-Semilight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr Bold';
+    src: url('HelveticaNeueCyr-Bold.eot');
+    src: url('HelveticaNeueCyr-Bold.eot#iefix') format('embedded-opentype'),
+        url('HelveticaNeueCyr-Bold.woff') format('woff'),
+        url('HelveticaNeueCyr-Bold.ttf') format('truetype'),
+        url('HelveticaNeueCyr-Bold.svg#HelveticaNeueCyr-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr Roman';
+    src: url('HelveticaNeueCyr-Roman.eot');
+    src: url('HelveticaNeueCyr-Roman.eot#iefix') format('embedded-opentype'),
+        url('HelveticaNeueCyr-Roman.woff') format('woff'),
+        url('HelveticaNeueCyr-Roman.ttf') format('truetype'),
+        url('HelveticaNeueCyr-Roman.svg#HelveticaNeueCyr-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+} 
+/*
+     FILE ARCHIVED ON 00:28:31 Dec 03, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:31:44 Sep 10, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 8.222
+  captures_list: 360.409
+  LoadShardBlock: 338.308 (3)
+  PetaboxLoader3.resolve: 238.508 (3)
+  exclusion.robots.policy: 0.111
+  CDXLines.iter: 11.145 (3)
+  exclusion.robots: 0.119
+  PetaboxLoader3.datanode: 141.077 (4)
+  load_resource: 159.208
+  esindex: 0.006
+*/
